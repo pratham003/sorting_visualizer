@@ -1,5 +1,7 @@
 # Sorting Algorithm Visualizer  
 
+![Sorting Visualizer Screenshot](img.jpeg)
+
 An engaging and interactive web application built using **HTML**, **CSS**, and **JavaScript** to visualize and understand popular sorting algorithms. This project is designed for students, developers, and educators to see how sorting techniques work step by step in a visually appealing manner.  
 
 ## Features  
